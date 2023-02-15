@@ -9,7 +9,7 @@ const NumberCheck = ({route}) => {
   const phoneNumber = route.params.phoneNumber;
   return (
     <SafeAreaView style={styles.container}>
-      <StatusBar backgroundColor="#777777" />
+      <StatusBar backgroundColor="rgba(51, 65, 85, .7)" style="light" />
       <ImageBackground
         source={require('../../assets/background.jpg')}
         // Imagebackground view is choosed for messaging area.
