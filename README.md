@@ -7,3 +7,11 @@
 - React Navigation
 - Async Storage
 - Redux Toolkit
+- Expo-firebase-recaptcha
+
+<br>
+
+<img src="./login.jpeg" width="150"/>
+<img src="./recaptcha.jpeg" width="150"/>
+<img src="./verifycode.jpeg" width="150"/>
+<img src="./logout.jpeg" width="150"/>
