@@ -7,7 +7,7 @@
 - React Navigation
 - Async Storage
 - Redux Toolkit
-- Expo-firebase-recaptcha
+- Expo Firebase Recaptcha
 
 <br>
 <p float="left">
