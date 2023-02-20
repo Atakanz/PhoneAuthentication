@@ -7,17 +7,14 @@ export default StyleSheet.create({
     backgroundColor: 'rgba(51, 65, 85, .5)',
     borderRadius: 25,
     alignItems: 'center',
+    justifyContent: 'space-evenly',
   },
   sectionTitle: {
     fontSize: 30,
     color: 'white',
-    position: 'absolute',
-    top: 24,
   },
   sectionBottomView: {
-    position: 'absolute',
-    left: 30,
-    top: 106,
+    alignItems: 'center',
   },
   sectionBottomTitle: {
     fontSize: 13,
@@ -29,14 +26,8 @@ export default StyleSheet.create({
     paddingBottom: 18.18,
     paddingLeft: 22.73,
     borderRadius: 15,
-    position: 'absolute',
-    top: 142,
   },
   textInput: {
     width: 272.73,
-  },
-  buttonView: {
-    position: 'absolute',
-    top: 224,
   },
 });

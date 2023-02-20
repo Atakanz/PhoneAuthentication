@@ -5,7 +5,10 @@ export default StyleSheet.create({
     backgroundColor: 'rgba(51, 65, 85, .5)',
     borderRadius: 25,
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'space-evenly',
     padding: 20,
+  },
+  sectionBottomView: {
+    padding: 10,
   },
 });

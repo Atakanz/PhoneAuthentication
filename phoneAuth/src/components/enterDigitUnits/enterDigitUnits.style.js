@@ -7,7 +7,6 @@ export default StyleSheet.create({
     width: 306,
     height: 200,
     justifyContent: 'space-around',
-    backgroundColor: 'rgba(51, 65, 85, .5)',
   },
   textInputView: {
     width: 46,

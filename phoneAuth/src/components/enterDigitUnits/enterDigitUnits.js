@@ -203,11 +203,11 @@ const EnterDigitUnits = ({id, phoneNumber}) => {
       </View>
       <View style={styles.options}>
         <Text style={[styles.timeDownText, {fontFamily: 'Poppins_500Medium'}]}>
-          {timeDown} saniye
+          {timeDown} seconds
         </Text>
         <TouchableOpacity onPress={reSendCode}>
           <Text style={[styles.reSendText, {fontFamily: 'Poppins_500Medium'}]}>
-            Tekrar Gönder?
+            Resend code
           </Text>
         </TouchableOpacity>
       </View>
